@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzCT+VeFFhyRzJAWCcJLdaBQo4gjCANBht248baXgQ8Mw00JUuIrOf0vLA/7c+AiefsJJsNpqreUXrHnRUeUPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dylan\\Documents\\GitHubRepos\\DictionaryPlusApp\\DictionaryPlusApp\\DictionaryPlusApp\\DictionaryPlusApp.iOS\\DictionaryPlusApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
